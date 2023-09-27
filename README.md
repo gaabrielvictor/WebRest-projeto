@@ -1,6 +1,6 @@
 # WebRest-projeto
 
-Projeto em Rest para a competência de Web Rest do professor Bruno Catão da Unifacisa.
+Projeto em Node.Js para a competência de Web Rest do professor Bruno Catão da Unifacisa.
 
 
 ### 📄 Passo a Passo ⬇️
